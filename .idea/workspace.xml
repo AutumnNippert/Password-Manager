@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f51c965-40ca-448f-8a7e-5eda0fe2b921" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uqvbu6XG7S83SAj1B56oAzNwvb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.PasswordManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Password Manager" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordManager" />
+      <module name="Password Manager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PasswordManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PasswordManager" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f51c965-40ca-448f-8a7e-5eda0fe2b921" name="Default Changelist" comment="" />
+      <created>1576097014203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576097014203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576097654351">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="141" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1366.732@0.36.1366.732" timestamp="1576097654351" />
+    <state x="415" y="189" width="535" height="432" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576097641525">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="415" y="189" width="535" height="432" key="#com.intellij.ide.util.TreeClassChooserDialog/0.36.1366.732@0.36.1366.732" timestamp="1576097641525" />
+    <state width="1320" height="144" key="GridCell.Tab.0.bottom" timestamp="1576881284793">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1320" height="144" key="GridCell.Tab.0.bottom/0.0.1366.719@0.0.1366.719" timestamp="1576881284793" />
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom/0.36.1366.732@0.36.1366.732" timestamp="1576097789065" />
+    <state width="1320" height="144" key="GridCell.Tab.0.center" timestamp="1576881284792">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1320" height="144" key="GridCell.Tab.0.center/0.0.1366.719@0.0.1366.719" timestamp="1576881284792" />
+    <state width="1320" height="149" key="GridCell.Tab.0.center/0.36.1366.732@0.36.1366.732" timestamp="1576097789063" />
+    <state width="1320" height="144" key="GridCell.Tab.0.left" timestamp="1576881284792">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1320" height="144" key="GridCell.Tab.0.left/0.0.1366.719@0.0.1366.719" timestamp="1576881284792" />
+    <state width="1320" height="149" key="GridCell.Tab.0.left/0.36.1366.732@0.36.1366.732" timestamp="1576097789062" />
+    <state width="1320" height="144" key="GridCell.Tab.0.right" timestamp="1576881284792">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1320" height="144" key="GridCell.Tab.0.right/0.0.1366.719@0.0.1366.719" timestamp="1576881284792" />
+    <state width="1320" height="149" key="GridCell.Tab.0.right/0.36.1366.732@0.36.1366.732" timestamp="1576097789064" />
+  </component>
+</project>
